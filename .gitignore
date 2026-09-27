@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.tmp/
+*.py[cod]
+*.egg-info/
+build-hand-modeling/
+dist-hand-modeling/
+*.smoke.json
+*.spec.tmp
+*.log
+coverage.xml
+.coverage
